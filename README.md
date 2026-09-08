@@ -347,7 +347,7 @@ EcoVolt-Smart-Sustainable-Energy/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saivamshidanthoju/EcoVolt-Smart-Sustainable-Energy.git
+git clone https://github.com/gundatejeswararao7/EcoVolt-Smart-Sustainable-Energy.git
 ```
 
 Navigate into the project:
