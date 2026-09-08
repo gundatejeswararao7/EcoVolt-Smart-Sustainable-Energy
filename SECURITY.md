@@ -15,7 +15,7 @@ If you discover a security vulnerability in GridSense, please report it responsi
 
 ### Contact
 
-* Email: [saivamshidanthoju@gmail.com](mailto:saivamshidanthoju@gmail.com)
+* Email: [gundatejeswararao7@gmail.com](mailto:gundatejeswararao7@gmail.com)
 
 ### What to Include
 
