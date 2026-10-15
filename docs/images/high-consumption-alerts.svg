@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 380" width="1140" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><polygon points="0,0 10,4 0,8" fill="#22c55e"/></marker></defs>
+<rect width="1140" height="380" rx="18" fill="#0f172a"/>
+<text x="570.0" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#22c55e">High Energy Consumption Alerts</text>
+<rect x="40" y="150" width="170" height="70" rx="12" fill="#0891b2"/>
+<text x="125.0" y="180.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Energy</text>
+<text x="125.0" y="200.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Reading</text>
+<path d="M210,185 L280,185" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<polygon points="400,113 520,185 400,257 280,185" fill="#7c3aed"/>
+<text x="400" y="180" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">Compare With</text>
+<text x="400" y="200" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">Threshold</text>
+<path d="M520,185 L580,185 L580,80 L640,80" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M520,185 L580,185 L580,290 L640,290" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<text x="612" y="138" text-anchor="middle" font-size="13" font-style="italic" fill="#94a3b8">Normal</text>
+<text x="612" y="262" text-anchor="middle" font-size="13" font-style="italic" fill="#94a3b8">High</text>
+<rect x="640" y="50" width="200" height="60" rx="12" fill="#16a34a"/>
+<text x="740.0" y="85.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Normal</text>
+<rect x="640" y="260" width="200" height="60" rx="12" fill="#dc2626"/>
+<text x="740.0" y="295.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">High</text>
+<rect x="900" y="50" width="200" height="60" rx="12" fill="#16a34a"/>
+<text x="1000.0" y="75.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Continue</text>
+<text x="1000.0" y="95.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Monitoring</text>
+<rect x="900" y="260" width="200" height="60" rx="12" fill="#dc2626"/>
+<text x="1000.0" y="295.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Send Alert</text>
+<path d="M840,80 L900,80" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M840,290 L900,290" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+</svg>

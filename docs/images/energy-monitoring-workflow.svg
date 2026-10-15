@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 292" width="990" height="292" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><polygon points="0,0 10,4 0,8" fill="#22c55e"/></marker></defs>
+<rect width="990" height="292" rx="18" fill="#0f172a"/>
+<text x="495.0" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#22c55e">Energy Monitoring Workflow</text>
+<rect x="40" y="70" width="150" height="66" rx="12" fill="#16a34a"/>
+<text x="115.0" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Sensor</text>
+<text x="115.0" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Measurement</text>
+<rect x="230" y="70" width="150" height="66" rx="12" fill="#0891b2"/>
+<text x="305.0" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Voltage +</text>
+<text x="305.0" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Current</text>
+<rect x="420" y="70" width="150" height="66" rx="12" fill="#7c3aed"/>
+<text x="495.0" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Power</text>
+<text x="495.0" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Calculation</text>
+<rect x="610" y="70" width="150" height="66" rx="12" fill="#d97706"/>
+<text x="685.0" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Energy</text>
+<text x="685.0" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Calculation</text>
+<rect x="800" y="70" width="150" height="66" rx="12" fill="#db2777"/>
+<text x="875.0" y="108.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">ESP32</text>
+<rect x="800" y="186" width="150" height="66" rx="12" fill="#2563eb"/>
+<text x="875.0" y="224.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Backend API</text>
+<rect x="610" y="186" width="150" height="66" rx="12" fill="#16a34a"/>
+<text x="685.0" y="224.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">MongoDB</text>
+<rect x="420" y="186" width="150" height="66" rx="12" fill="#0891b2"/>
+<text x="495.0" y="224.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Dashboard</text>
+<rect x="230" y="186" width="150" height="66" rx="12" fill="#7c3aed"/>
+<text x="305.0" y="214.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Analytics +</text>
+<text x="305.0" y="234.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Billing</text>
+<path d="M190,103.0 L230,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M380,103.0 L420,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M570,103.0 L610,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M760,103.0 L800,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M875.0,136 L875.0,186" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M800,219.0 L760,219.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M610,219.0 L570,219.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M420,219.0 L380,219.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+</svg>

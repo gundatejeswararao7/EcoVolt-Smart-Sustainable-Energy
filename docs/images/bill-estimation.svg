@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 875 176" width="875" height="176" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><polygon points="0,0 10,4 0,8" fill="#22c55e"/></marker></defs>
+<rect width="875" height="176" rx="18" fill="#0f172a"/>
+<text x="437.5" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#22c55e">Electricity Bill Estimation</text>
+<rect x="40" y="70" width="165" height="66" rx="12" fill="#16a34a"/>
+<text x="122.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Energy</text>
+<text x="122.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Consumption</text>
+<rect x="250" y="70" width="165" height="66" rx="12" fill="#0891b2"/>
+<text x="332.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Units Consumed</text>
+<text x="332.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">(kWh)</text>
+<rect x="460" y="70" width="165" height="66" rx="12" fill="#7c3aed"/>
+<text x="542.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Tariff</text>
+<text x="542.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Calculation</text>
+<rect x="670" y="70" width="165" height="66" rx="12" fill="#d97706"/>
+<text x="752.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Estimated</text>
+<text x="752.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Electricity Bill</text>
+<path d="M205,103.0 L250,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M415,103.0 L460,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M625,103.0 L670,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+</svg>

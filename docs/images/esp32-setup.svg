@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 875 292" width="875" height="292" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><polygon points="0,0 10,4 0,8" fill="#22c55e"/></marker></defs>
+<rect width="875" height="292" rx="18" fill="#0f172a"/>
+<text x="437.5" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#22c55e">ESP32 Setup Workflow</text>
+<rect x="40" y="70" width="165" height="66" rx="12" fill="#16a34a"/>
+<text x="122.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Install</text>
+<text x="122.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Arduino IDE</text>
+<rect x="250" y="70" width="165" height="66" rx="12" fill="#0891b2"/>
+<text x="332.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Install ESP32</text>
+<text x="332.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Board Support</text>
+<rect x="460" y="70" width="165" height="66" rx="12" fill="#7c3aed"/>
+<text x="542.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Connect</text>
+<text x="542.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">ESP32</text>
+<rect x="670" y="70" width="165" height="66" rx="12" fill="#d97706"/>
+<text x="752.5" y="98.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Configure</text>
+<text x="752.5" y="118.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Sensors</text>
+<rect x="670" y="186" width="165" height="66" rx="12" fill="#db2777"/>
+<text x="752.5" y="214.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Configure</text>
+<text x="752.5" y="234.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Wi-Fi</text>
+<rect x="460" y="186" width="165" height="66" rx="12" fill="#2563eb"/>
+<text x="542.5" y="214.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Configure</text>
+<text x="542.5" y="234.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">API Endpoint</text>
+<rect x="250" y="186" width="165" height="66" rx="12" fill="#16a34a"/>
+<text x="332.5" y="214.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Upload</text>
+<text x="332.5" y="234.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Firmware</text>
+<rect x="40" y="186" width="165" height="66" rx="12" fill="#0891b2"/>
+<text x="122.5" y="214.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Start Sending</text>
+<text x="122.5" y="234.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Energy Data</text>
+<path d="M205,103.0 L250,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M415,103.0 L460,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M625,103.0 L670,103.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M752.5,136 L752.5,186" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M670,219.0 L625,219.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M460,219.0 L415,219.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M250,219.0 L205,219.0" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+</svg>

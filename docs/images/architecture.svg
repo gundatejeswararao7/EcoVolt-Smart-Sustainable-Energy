@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 830" width="760" height="830" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><polygon points="0,0 10,4 0,8" fill="#22c55e"/></marker></defs>
+<rect width="760" height="830" rx="18" fill="#0f172a"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#22c55e">EcoVolt System Architecture</text>
+<rect x="260" y="60" width="240" height="52" rx="12" fill="#d97706"/>
+<text x="380.0" y="91.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Electrical Load</text>
+<rect x="110" y="160" width="220" height="52" rx="12" fill="#0891b2"/>
+<text x="220.0" y="191.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Voltage Sensor</text>
+<rect x="430" y="160" width="220" height="52" rx="12" fill="#0891b2"/>
+<text x="540.0" y="191.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Current Sensor</text>
+<rect x="230" y="270" width="300" height="92" rx="12" fill="#16a34a"/>
+<text x="380.0" y="301.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">ESP32</text>
+<text x="380.0" y="321.0" text-anchor="middle" font-size="12.5" fill="#ffffffd9">Data Reading · Processing</text>
+<text x="380.0" y="341.0" text-anchor="middle" font-size="12.5" fill="#ffffffd9">Device Control</text>
+<rect x="230" y="425" width="300" height="60" rx="12" fill="#7c3aed"/>
+<text x="380.0" y="460.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Node.js + Express.js API</text>
+<rect x="230" y="545" width="300" height="72" rx="12" fill="#2563eb"/>
+<text x="380.0" y="576.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">MongoDB</text>
+<text x="380.0" y="596.0" text-anchor="middle" font-size="12.5" fill="#ffffffd9">Energy Data · User Data</text>
+<rect x="210" y="685" width="340" height="98" rx="12" fill="#db2777"/>
+<text x="380.0" y="719.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">React Web App</text>
+<text x="380.0" y="739.0" text-anchor="middle" font-size="12.5" fill="#ffffffd9">Dashboard · Analytics</text>
+<text x="380.0" y="759.0" text-anchor="middle" font-size="12.5" fill="#ffffffd9">Billing · Device Control</text>
+<path d="M380,112 L220,160" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M380,112 L540,160" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M220,212 L310,270" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M540,212 L450,270" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M380,362 L380,425" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<text x="445" y="400" text-anchor="middle" font-size="13" font-style="italic" fill="#94a3b8">REST API</text>
+<path d="M380,485 L380,545" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M380,617 L380,685" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#a)"/>
+</svg>
